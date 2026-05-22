@@ -6,7 +6,7 @@
 
 ## 📋 目前開放職缺
 
-👉 [點此下載職缺清單 Excel](./Job%20Opening.xlsx)
+👉 [點此下載職缺清單 Excel](https://github.com/valerieliao0102/Hiring/raw/main/Job%20Opening.xlsx)
 
 > 此清單定期更新，僅列出部分公開職缺。
 > 若沒看到符合的職位，歡迎直接聯絡我！
